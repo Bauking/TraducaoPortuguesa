@@ -292,10 +292,10 @@ QUEST_LV_0100_20150317_000291	{memo X}Estranho... Não é o tipo de monstro que 
 QUEST_LV_0100_20150317_000292	Se aprontar de novo?{nl}Complicado. Ainda tem muitas missões.{nl}
 QUEST_LV_0100_20150317_000293	{memo X}Primeiro, mate os Hanamings por aqui.{nl}Então, recolha suas pétalas.
 QUEST_LV_0100_20150317_000294	Mesmo que isso não fosse sobre os Reveladores, mas sobre o retorno das Deusas,{nl}eu não abandonaria minha missão antes de terminá-la.
-QUEST_LV_0100_20150317_000295	{memo X}Sim. Isso deve ser suficiente. Aqui está uma pílula que restaurará sua stamina{nl}instantâneamente. Tenho bastante então te darei isso como um presente.
-QUEST_LV_0100_20150317_000296	{memo X}Stamina é consumida quando você se movimenta.{nl}Você pode recuperar stamina destruindo uma #pending Tree Root Crystal ou descansando.{nl}Mas talvez você não tenha tempo para isso quando você for perseguido por monstros.{nl}É aí que essa pílula será útil.
+QUEST_LV_0100_20150317_000295	{memo X}Sim. Isso deve ser suficiente. Aqui está uma pílula que restaurará sua #pending stamina{nl}instantâneamente. Tenho bastante então te darei isso como um presente.
+QUEST_LV_0100_20150317_000296	{memo X}#pending Stamina é consumida quando você se movimenta.{nl}Você pode recuperar #pending stamina destruindo uma #pending Tree Root Crystal ou descansando.{nl}Mas talvez você não tenha tempo para isso quando você for perseguido por monstros.{nl}É aí que essa pílula será útil.
 QUEST_LV_0100_20150317_000297	{memo X}Ouvi notícias dos meus homens e fiquei preocupado.{nl}Tudo está bem se isso teminou bem.
-QUEST_LV_0100_20150317_000298	Residente de Klaipeda
+QUEST_LV_0100_20150317_000298	Morador de Klaipeda
 QUEST_LV_0100_20150317_000299	Quando você acha que a Deusa retornará?{nl}Mesmo que eu pergunte aos Reveladores, tudo o que eles dizem é que eles precisam ir a{nl}Klaipeda...
 QUEST_LV_0100_20150317_000300	Você é um #pending Revelador?{nl}A Deusa não apareceu no seu sonho?{nl}Eu ouvi isso dos soldados.
 QUEST_LV_0100_20150317_000301
