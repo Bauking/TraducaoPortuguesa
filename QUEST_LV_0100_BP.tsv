@@ -273,9 +273,9 @@ QUEST_LV_0100_20150317_000272	Isso depende de qual Deusa é.{nl}Se você seguir 
 QUEST_LV_0100_20150317_000273	{memo X}Tenho receio que os monstros possam causar mal a Estátua da Deusa
 QUEST_LV_0100_20150317_000274	Fico feliz que a estátua esteja ilesa.{nl}Os monstros aqui sabem temer a Deusa.
 QUEST_LV_0100_20150317_000275	Siga pela #Shadow Forest Road e você deverá chegar em Klaipeda rapidamente.{nl}Então, que as bênçãos da Deusa esteja com você.
-QUEST_LV_0100_20150317_000276	{memo X}{memo X}Por favor me faça um favor se estiver indo para Klaipeda.{nl}Não é fácil ir e vir de Klaipeda hoje em dia por causa dos #pending Infrorocktors
+QUEST_LV_0100_20150317_000276	{memo X}Por favor me faça um favor se estiver indo para Klaipeda.{nl}Não é fácil ir e vir de Klaipeda hoje em dia por causa dos #pending Infrorocktors
 QUEST_LV_0100_20150317_000277	Talvez cuidar das estátuas fará as Deusas voltarem mais rápido...
-QUEST_LV_0100_20150317_000278	{memo X}{memo X}Siga a estrada pela esquerda no acampamento da encruzilhada.{nl}-scp SCR_DIALOG_NPC_ANIM(
+QUEST_LV_0100_20150317_000278	{memo X}Siga a estrada pela esquerda no acampamento da encruzilhada.{nl}-scp SCR_DIALOG_NPC_ANIM(
 QUEST_LV_0100_20150317_000279	Você verá as tropas agora mesmo.
 QUEST_LV_0100_20150317_000280	Certo, bom trabalho.{nl}Você chegará em Klaipeda rapidamente se você seguir a #pending Shadow Forest Road.{nl}Não esqueça de passar em Sir Uska.
 QUEST_LV_0100_20150317_000281	Comandante de Batalha
@@ -288,12 +288,12 @@ QUEST_LV_0100_20150317_000287	{memo X}Fico tão aliviado de ficar de estacionado
 QUEST_LV_0100_20150317_000288	{memo X}Quando você ver uma Estátua da Deusa, tente oferecer sua adoração.{nl}Com certeza algo bom acontecerá.
 QUEST_LV_0100_20150317_000289	Essa é uma área perigosa. O que está fazendo aqui?
 QUEST_LV_0100_20150317_000290	Obrigado.{nl}Devo reportar o #pending Kepa Grande perambulante a Titas.
-QUEST_LV_0100_20150317_000291	{memo X}{memo X}Estranho... Não é o tipo de monstro que você encontraria em um lugar como esse.{nl}Deve ser difícil viajar por ai.
+QUEST_LV_0100_20150317_000291	{memo X}Estranho... Não é o tipo de monstro que você encontraria em um lugar como esse.{nl}Deve ser difícil viajar por ai.
 QUEST_LV_0100_20150317_000292	Se aprontar de novo?{nl}Complicado. Ainda tem muitas missões.{nl}
-QUEST_LV_0100_20150317_000293	{memo X}{memo X}Primeiro, mate os Hanamings por aqui.{nl}Então, recolha suas pétalas.
+QUEST_LV_0100_20150317_000293	{memo X}Primeiro, mate os Hanamings por aqui.{nl}Então, recolha suas pétalas.
 QUEST_LV_0100_20150317_000294	Mesmo que isso não fosse sobre os Reveladores, mas sobre o retorno das Deusas,{nl}eu não abandonaria minha missão antes de terminá-la.
 QUEST_LV_0100_20150317_000295	{memo X}Sim. Isso deve ser suficiente. Aqui está uma pílula que restaurará sua stamina{nl}instantâneamente. Tenho bastante então te darei isso como um presente.
-QUEST_LV_0100_20150317_000296	{memo X}{memo X}Stamina é consumida quando você se movimenta.{nl}Você pode recuperar stamina destruindo uma #pending Tree Root Crystal ou descansando.{nl}Mas talvez você não tenha tempo para isso quando você for perseguido por monstros.{nl}É aí que essa pílula será útil.
+QUEST_LV_0100_20150317_000296	{memo X}Stamina é consumida quando você se movimenta.{nl}Você pode recuperar stamina destruindo uma #pending Tree Root Crystal ou descansando.{nl}Mas talvez você não tenha tempo para isso quando você for perseguido por monstros.{nl}É aí que essa pílula será útil.
 QUEST_LV_0100_20150317_000297	{memo X}Ouvi notícias dos meus homens e fiquei preocupado.{nl}Tudo está bem se isso teminou bem.
 QUEST_LV_0100_20150317_000298	Residente de Klaipeda
 QUEST_LV_0100_20150317_000299	Quando você acha que a Deusa retornará?{nl}Mesmo que eu pergunte aos Reveladores, tudo o que eles dizem é que eles precisam ir a{nl}Klaipeda...
